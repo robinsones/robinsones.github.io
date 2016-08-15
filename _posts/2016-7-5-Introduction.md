@@ -1,7 +1,3 @@
----
-layout: single
-title: A Community's of One's Own
----
 
 ## Dropbox for sharing code
 I learned a lot in my two years at INSEAD getting a master’s in Organizational Behavior. Many of the skills and knowledge I gained there will be beneficial as a data scientist, from defining a problem to carrying out a thoughtful analysis to communicating to a range of audiences. But one skill I wasn't developing was working in an industry-level coding environment.
