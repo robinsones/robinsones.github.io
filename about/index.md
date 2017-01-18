@@ -5,4 +5,10 @@ tags: [about]
 comments: false
 ---
 
-I am a data scientist student in [Metis'](http://www.thisismetis.com/data-science) 2016 summer cohort. I graduated in June from INSEAD with a Master's degree in Management with a specialization in Organizational Behavior. Before INSEAD I earned my bachelor's degree *Phi Beta Kappa* from Rice University in Decision Sciences, an interdisciplinary major I designed that focused on understanding how people behave and make decision. The courses were primarily in economics, psychology, philosophy, and statistics; I also earned a statistics minor. 
+I recently started as a Data Analyst at Etsy, working on the analytics team to help improve search. In summer 2016, I completed [Metis's](http://www.thisismetis.com/data-science) three-month, full-time Data Science Bootcamp, where I did several data science projects, ranging from using random forests to predict [successful projects on DonorsChoose.org](https://github.com/robinsones/Predicting-Sucess-on-DonorsChoose) to building an application in R Shiny that [helps data science freelancers find their best-fit jobs](https://github.com/robinsones/Freelancer-Shiny-App). Before Metis, I graduated in June from INSEAD with a Master's degree in Management (specialization in Organizational Behavior). I also earned my bachelor's degree from Rice University in Decision Sciences, an interdisciplinary major I designed that focused on understanding how people behave and make decisions. I'm currently searching for Data Scientist positions in New York City. 
+
+I grew up in New York City, moved to Houston for college and then spent two years in Fontainebleau, France attending INSEAD. Because of INSEAD's two-campus system, I also lived for a few months in Singapore. I love all animals and consider myself part of the [#rcatladies](https://twitter.com/hashtag/rcatladies) despite not owning a cat. I do have a dog, Abby, who consistently surprises mountain hikers and Central Park joggers alike with her athletic ability.
+
+![](http://robinsones.github.io/images/2015-07-31 14.03.51.jpg)
+
+Disclaimer: At no point, including now, has this blog represented the opinion of my employer, Etsy. All views shared are my own.”

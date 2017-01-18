@@ -1,10 +1,10 @@
 ## STATA vs R 
 
-As I mentioned in my [previous post](https://robinsones.github.io/Introduction/), I was fortunate to enter graduate school with a few years of programming experience in R. I learned R exclusively through my Statistics classes; while I took the graduate-level psychology statistics course at Rice and was a research assistant in multiple departments, all used SPSS.  
+As I mentioned in my [previous post](https://robinsones.github.io/From-Social-Scientist-to-Data-Scientist/), I was fortunate to enter graduate school with a few years of programming experience in R. I learned R exclusively through my Statistics classes; while I took the graduate-level psychology statistics course at Rice and was a research assistant in multiple departments, all used SPSS.  
 
 As this discrepancy suggests, the social sciences are often lagging behind in teaching and using open-source software. Fortunately, there is some effort to change this. The PhD director at INSEAD recently sent out an email expressing his delight that students were becoming increasingly interested in learning how to do computer programming. He announced that new students in future years would be asked to spend their summer before joining INSEAD learning basic programming, although it would not become an admission requirement.
 
-While a few INSEAD students and research assistants use Python, R, MATLAB, or other languages, all the courses I took used STATA. Here's summary of my experience with STATA:
+While a few INSEAD students and research assistants use Python, R, MATLAB, or other languages, all the courses I took used STATA. Here's a brief summary of my experience with STATA:
 
 * Googling my problems and being directed to [old](http://www.stata.com/statalist/archive/2010-04/msg01673.html) [listserv](http://www.stata.com/statalist/archive/2009-04/msg00976.html) [posts](http://www.stata.com/statalist/archive/2007-09/msg00099.html) instead of the [beautiful](http://stackoverflow.com/questions/20987295/rename-multiple-columns-by-names) [Stack Overflow](http://stackoverflow.com/questions/12357592/efficient-multiplication-of-columns-in-a-data-frame) [answers](http://stackoverflow.com/questions/4203442/for-loop-vs-while-loop-in-r) I had been spoiled with when using R.   
 * Wishing there was a way to create reproducible documents with code, output, and explanations as I did with R Markdown and Jupyter Notebooks  

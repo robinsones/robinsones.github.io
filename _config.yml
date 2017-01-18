@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hooked on Data"
 title_separator          : "-"
 name                     : "Emily Robinson"
 description              : "Data Scientist"
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/robinsones
+  github           : robinsones
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : robinsones
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
