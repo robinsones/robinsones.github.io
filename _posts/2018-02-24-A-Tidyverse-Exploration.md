@@ -1,0 +1,8 @@
+Last month, I gave a conference talk at Data Day Texas called "The Lesser Known Stars of the Tidyverse." The video has just been released [LINK], but I decided to write this post for those who preference to learn with written material. 
+
+The talk was had three parts: an introduction to the what the tidyverse is, including its history and contributors. The last part was links to more resources, which I've included at the end of this post. You can see all the slides here [LINK]. In this post, I'm going to walk through the middle part of the presentation. I wanted to show functions and decided the best way was by walking through how I would start examining a new dataset. I wasn't brave enough to write the code live (I've seen that go wrong too many times), but I instead walked through a script I'd prepare, running the relevant code as I came to it. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/robinson_es?ref_src=twsrc%5Etfw">@robinson_es</a> was brave and went for a live demo on lesser known ⭐s of the <a href="https://twitter.com/hashtag/tidyverse?src=hash&amp;ref_src=twsrc%5Etfw">#tidyverse</a>. Great talk, such a good speaker! Find her at your next conf 😊💅📊 <a href="https://twitter.com/hashtag/ddtx18?src=hash&amp;ref_src=twsrc%5Etfw">#ddtx18</a> <a href="https://t.co/agamVjWprs">pic.twitter.com/agamVjWprs</a></p>&mdash; Hilary Parker (@hspter) <a href="https://twitter.com/hspter/status/957396777505886209?ref_src=twsrc%5Etfw">January 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
