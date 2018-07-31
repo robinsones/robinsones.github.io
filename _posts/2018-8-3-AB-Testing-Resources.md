@@ -5,6 +5,7 @@ When I started at Etsy, I read a lot of papers and blog posts on A/B Testing. Wh
 - [Online Experimentation at Microsoft](http://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf): an accessible overview of how Microsoft started A/B Testing, tackling the issues of how most experiments fail, how they spread awareness, and lessons learned. 
 - [Controlled Experiments on the Web: Survey and Practical Guide](https://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf): an essential guide to best practices, some of which are covered in my rules above. 
 - [Seven Rules of Thumb for Web Site Experiments](https://www.exp-platform.com/Documents/2014%20experimentersRulesOfThumb.pdf): while the details can be complicated, the seven rules are clear: it's easy to increase clicks on a feature but not for the whole page, be critical of your "too good to be true" results, 
+- [Selection Bias in Online Experimentation](https://medium.com/airbnb-engineering/selection-bias-in-online-experimentation-c3d67795cceb) or why all your wins aren't adding up. 
 
 ### Next Time 
 
