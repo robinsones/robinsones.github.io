@@ -13,5 +13,5 @@ I recently wrote a post on 12 guidelines for A/B testing. In this post, I want t
 - beware the lingering test. Set end dates
 - if you're the analyst, make other people do some of the upfront work. Important - what is the audience for the test? 
 - When should you start experimenting? It's a catch-22 - experiments can be a great way to grow your traffic, but you need traffic for your A/B tests to matter. 
-- 
+- Not everything needs to be A/B tested. There is a cost to the analysis and set-up component. Two reactions - paralyzed and skeptical. https://twitter.com/robinson_es/status/1020082299029815296
 
