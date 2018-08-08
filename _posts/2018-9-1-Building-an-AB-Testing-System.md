@@ -9,9 +9,11 @@ I recently wrote a post on 12 guidelines for A/B testing. In this post, I want t
   - traditional A/B tests onsite
   - new feature launch where you want to see how many people sign up (and maybe make sure doesn't hurt anything). This can be good when you do an MVP and decide if it's worth doing a full implementation (either expanding to the rest of the site or fixing the engineering behind it) 
   - email tests
+  - MVTs
 - set a cadence for doing test discussion/speccing/analysis
 - beware the lingering test. Set end dates
 - if you're the analyst, make other people do some of the upfront work. Important - what is the audience for the test? 
 - When should you start experimenting? It's a catch-22 - experiments can be a great way to grow your traffic, but you need traffic for your A/B tests to matter. 
 - Not everything needs to be A/B tested. There is a cost to the analysis and set-up component. Two reactions - paralyzed and skeptical. https://twitter.com/robinson_es/status/1020082299029815296
+- take screenshots of everything - you will be very sad when you can't refer to them. 
 
