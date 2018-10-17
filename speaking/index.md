@@ -23,7 +23,7 @@ March 2019, [CXL Live](https://conversionxl.com/live/).
 
 ### 10 Guidelines for A/B Testing
 
-October 2018, [PyData NYC](https://pydata.org/nyc2018/). [Slides](https://www.slideshare.net/secret/3uREb8xwcECuwf)
+October 2018, [PyData NYC](https://pydata.org/nyc2018/). [Slides](https://www.slideshare.net/secret/qxRhGQy8nJpcVQ)
 
 ### Joining the Data Science Community
 
