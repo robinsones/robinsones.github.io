@@ -2,7 +2,7 @@ When I was working at Etsy, I benefited from a very robust A/B testing system. E
 
 And yet sometimes I would spend a majority of my time working on experiments, even though I tried to never be working on more than 3 or 4 at once. How could that take so long when so much was already done for me? The concept of A/B Testing seems pretty simple. A classic example is you change the color of a button and measuring if the click-rate changes. Assuming your assignment of visitors and data collection is working, all you need to do is run a proportion test, right? And if you already have the proportion test calculated, why is a data scientist even needed? Maybe you need one if you want to do some fancy techniques like [multi-armed bandits](https://en.wikipedia.org/wiki/Multi-armed_bandit), but how can classic, frequentist A/B Testing be a challenge? 
 
-Unfortunately, ["generating numbers is easy; generating numbers you should trust is hard!"](http://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf) There's many ways A/B Testing can go wrong, but most of them won't be obvious. 
+Unfortunately, ["generating numbers is easy; generating numbers you should trust is hard!"](http://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf) There are many ways A/B Testing can go wrong, but most of them won't be obvious. 
 
 This post outlines some recommended best practices for A/B Testing. I've found that a lot of analysts and data scientists struggle with A/B testing, especially those not classically trained in statistics or who are trying to start their company's A/B testing system. While A/B testing correctly isn't easy, these 12 guidelines will help you guard against some common mistakes and set you up for success.
 
