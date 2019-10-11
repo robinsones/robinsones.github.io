@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <meta charset="utf-8">
 <<<<<<< HEAD
@@ -9,3 +10,19 @@
 <meta http-equiv="refresh" content="0; URL=https://hookedondata.org/">
 <link rel="canonical" href="https://hookedondata.org/">
 >>>>>>> parent of 2dc4534... add everything baack
+=======
+---
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+>>>>>>> parent of fcb510c... try redirect again
